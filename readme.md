@@ -28,3 +28,5 @@ isso é uma auteraão
 
 Para conseguir sobreesscrever o que esta sendo alterado é
 """"git push origin main --force"""
+
+para criar ramifições, basta escrever git checkout -b"nome do arquivo"
