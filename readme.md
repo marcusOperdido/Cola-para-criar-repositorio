@@ -25,3 +25,6 @@ Git remote add origin:      O git vai te dar um link, nesse link você faz um co
 Git push -u origin main:    Basicamente enviar os arquivos pro github  
 
 isso é uma auteraão
+
+Para conseguir sobreesscrever o que esta sendo alterado é
+""""git push origin main --force"""
