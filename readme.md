@@ -30,3 +30,9 @@ Para conseguir sobreesscrever o que esta sendo alterado é
 """"git push origin main --force"""
 
 para criar ramifições, basta escrever git checkout -b"nome do arquivo"
+assim caso queira voltar para main, é escrever
+
+ '''' git checkout nome do lugar""""
+
+ Para juntar (merge)
+'''' GIT MERGE NOME DO ARQUIVO'''
